@@ -19,7 +19,7 @@
 }
 
 .cabecalho-imagem {
-  width: 15%;
+  width: 20%;
 
 }
 
@@ -33,4 +33,12 @@
  body {
 
   font-family: "cinzel";
+ }
+ .Enrolados {
+   background-image: linear-gradient(rgb(124, 36, 124), rgb(124, 36, 80));
+   color:white;
+  
+ }
+ .Enrolados-imagem{
+   width:23%;
  }
