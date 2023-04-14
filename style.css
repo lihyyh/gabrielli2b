@@ -38,6 +38,9 @@
    background-image: linear-gradient(rgb(124, 36, 124), rgb(124, 36, 80));
    color:white;
    display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 24px 0;
   
  }
  .Enrolados-imagem{
