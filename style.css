@@ -37,6 +37,7 @@
  .Enrolados {
    background-image: linear-gradient(rgb(124, 36, 124), rgb(124, 36, 80));
    color:white;
+   display: flex;
   
  }
  .Enrolados-imagem{
